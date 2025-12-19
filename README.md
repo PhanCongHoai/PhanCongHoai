@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<👋 Xin chào, mình là Phan Công Hoài
+👋 Xin chào, mình là Phan Công Hoài
 🎓 Sinh viên ngành Công nghệ Thông tin
 🎮 Đam mê Kỹ thuật và thích Lập trình
 📚 Luôn học hỏi, xây dựng và phát triển thông qua các dự án thực tế
@@ -48,6 +48,14 @@ Lập trình hướng đối tượng (OOP), Cơ bản về UI/UX
 - Trang admin thống kê báo cáo duyệt sản phẩm.
 - Phân quyền user / admin
 - .....
+  
+### 🔹 3. Cảnh báo DDoS và DoS
+- Công nghệ: HTML, css, python
+- Bắt gói tin kiểm tra ip
+- Cảnh báo khi lưu lượng mạng vượt ngưỡng
+- Thống kê báo cáo
+- .....
+  
   
 "Nếu bạn nghĩ việc học lập trình khó, thì hãy thử gỡ lỗi một đoạn code bạn không hiểu."
 — Bạn nghĩ đúng rồi đó
