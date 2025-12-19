@@ -17,7 +17,7 @@ JavaScript, HTML, CSS, Java, node, express (basic)
 Frameworks & Thư viện:
 
 
-GitHub, Docker, VSCode, PyCharm.
+GitHub, Docker, VSCode, PyCharm (Basic) .
 Kiến thức nền tảng:
 
 Lập trình hướng đối tượng (OOP), Cơ bản về UI/UX
